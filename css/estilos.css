@@ -8,11 +8,10 @@ html{
   scroll-behavior: smooth;
 }
 header {
-    background-image: url("main/img/fondo pag.jpg");
+    background-image: url("img/fondo pag.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    background-color: #ffffff;
     padding: 0;
     text-align: center;
     z-index: 0;
